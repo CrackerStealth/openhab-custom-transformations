@@ -1,0 +1,1 @@
+JSON.parse(input).update[0][1].toUpperCase()
